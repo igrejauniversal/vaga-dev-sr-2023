@@ -1,9 +1,9 @@
 # ✨ Avaliação Desenvolvedor Full Stack Sênior
 
-Obrigado por sua participação em nosso processo seletido.
+Obrigado por sua participação em nosso processo seletivo.
 A seguir você encontrará todos as informações necessárias para iniciar o seu teste.
 
-## 🎓 Conhecimentos obrigatórias
+## 🎓 Conhecimentos obrigatórios
 
 HTML, CSS, JavaScript, NextJS, NestJS, Prisma ORM, Docker, Git e GitHub.
 
@@ -67,7 +67,7 @@ Com foco nos critérios acima iremos ou não avançar para a entrevista técnica
 
 ## 💼 Para o dia da entrevista técnica
 
-Na data marcada pelo recrutador faremos um code review, então fique atento(a) para deixar o ambiente da sua aplicação rodando em sua máquina local. Durante a conversa fique totalmente avontade para explicar no que pensou, como arquitetou e quais suas sugestões para melhorar o projeto.
+Na data marcada pelo recrutador faremos um code review, então fique atento(a) para deixar o ambiente da sua aplicação rodando em sua máquina local. Durante a conversa fique totalmente a vontade para explicar no que pensou, como arquitetou e quais suas sugestões para melhorar o projeto.
 
 ---
 
